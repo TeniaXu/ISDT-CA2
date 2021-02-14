@@ -1,0 +1,6 @@
+Assets used:
+1. Construction Site Scene and props - Provided by lecturer
+2. Safety Gear (Helmet and Goggle) - Found in the HDRP Template
+3. Safety Gear (Vest) - https://www.turbosquid.com/3d-models/3d-police-reflective-vest-model-1496137
+4. EffectExamples (Fire Safety) - Unity Particle Pack 5.x
+5. Fire_Extinguisher - Fire Extinguisher
